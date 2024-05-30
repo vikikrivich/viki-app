@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/viki-app/static/css/main.f855e6bc.css",
+    "main.js": "/viki-app/static/js/main.35a551ee.js",
+    "static/js/453.3a3afdbb.chunk.js": "/viki-app/static/js/453.3a3afdbb.chunk.js",
+    "static/media/logo.png": "/viki-app/static/media/logo.e1d6ba25a2f37324631b.png",
+    "index.html": "/viki-app/index.html",
+    "main.f855e6bc.css.map": "/viki-app/static/css/main.f855e6bc.css.map",
+    "main.35a551ee.js.map": "/viki-app/static/js/main.35a551ee.js.map",
+    "453.3a3afdbb.chunk.js.map": "/viki-app/static/js/453.3a3afdbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.35a551ee.js"
+  ]
+}
